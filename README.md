@@ -1,7 +1,7 @@
 # headers for wsl
 
 Fork of transmissions11 headers that works on WSL.
-Code copied from ChatGPT.
+Code copied from ChatGPT, use at your own risk.
 
 ## Build
 
