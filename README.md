@@ -1,6 +1,7 @@
-# headers
+# headers for wsl
 
-Generate perfect code headers every time.
+Fork of transmissions11 headers that works on WSL.
+Code copied from ChatGPT.
 
 ## Build
 
